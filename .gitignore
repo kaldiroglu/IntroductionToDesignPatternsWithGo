@@ -1,0 +1,8 @@
+# Binaries / build output
+/IntroductionToDesignPatternsWithGo
+*.exe
+*.out
+# Test / coverage
+*.test
+*.prof
+coverage.out
